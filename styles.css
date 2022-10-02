@@ -70,3 +70,27 @@ img {
     height: 300px;
   }
   
+  h2{
+    font-size: 32px;
+    font-weight: 900;  
+    display: flex;
+    justify-content: center;
+    margin-bottom: 32px;
+  }
+
+  .bodytwo {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
+  
+  .info {
+    max-width: 100px;
+  }
+  .info img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 4px solid #3882F6;
+    border-radius: 15px;
+  }
